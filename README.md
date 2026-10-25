@@ -49,7 +49,19 @@ GitHub Repository → Jenkins Pipeline → Docker Image → Docker Container →
 
 ## Screenshots
 
-Screenshots of the successful Jenkins build and the deployed website will be added to this section.
+## Screenshots
+
+### 1. Jenkins Pipeline Build Success
+
+The Jenkins pipeline successfully built and tagged the Docker image and completed the deployment stage.
+
+![Jenkins Build Success](screenshots/jenkins-build-success.PNG)
+
+### 2. Live Website on AWS EC2
+
+The website was successfully deployed and accessed through the EC2 instance's public IP address.
+
+![Live Website](screenshots/live-website.PNG)
 
 ## Verification
 
