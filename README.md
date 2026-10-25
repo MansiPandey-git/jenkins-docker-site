@@ -47,7 +47,7 @@ GitHub Repository → Jenkins Pipeline → Docker Image → Docker Container →
 - **Application Port:** `80`
 - **Deployment Platform:** AWS EC2
 
-## Screenshots
+
 
 ## Screenshots
 
